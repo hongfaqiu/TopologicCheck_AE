@@ -1,0 +1,123 @@
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.cache
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkNames.resources
+D:\3170103107\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+D:\3170103107\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+D:\3170103107\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+D:\3170103107\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+D:\3170103107\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojResolveAssemblyReference.cache
+D:\3170103107\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkNames.resources
+D:\3170103107\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+D:\3170103107\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+D:\3170103107\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.Cache
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.DataBoard.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Export.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geometry.dll
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Output.dll
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geometry.xml
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Output.xml
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CopyComplete
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreatFeatureClass.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateFeature.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MapQuery.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.BufferQuery.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.FeildStatistic.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.ReadTopology.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateTopology.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.dll
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.xml
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.dll.config
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AddFeatCla.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateDB.resources
+C:\Users\Joe\source\repos\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateDS.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.dll
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.xml
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.dll.config
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\desktop\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojAssemblyReference.cache
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AddFeatCla.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkNames.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.BufferQuery.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateDB.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateDS.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateFeature.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateTopology.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreatFeatureClass.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.DataBoard.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Export.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.FeildStatistic.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MapQuery.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.ReadTopology.resources
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.cache
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CoreCompileInputs.cache
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CopyComplete
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+D:\desktop\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.exe
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\MapControlApplication1.pdb
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.dll
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geometry.dll
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Output.dll
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.xml
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.ConversionTools.dll.config
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geometry.xml
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\bin\Debug\ESRI.ArcGIS.Output.xml
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csprojAssemblyReference.cache
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AddFeatCla.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.AdmitBookmarkNames.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.BufferQuery.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateDB.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateDS.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateFeature.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreateTopology.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.CreatFeatureClass.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.DataBoard.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Export.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.FeildStatistic.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MainForm.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.MapQuery.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.Properties.Resources.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.ReadTopology.resources
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.GenerateResource.cache
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.csproj.CopyComplete
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.exe
+C:\Users\Joe\OneDrive\文档\Tencent Files\951142905\FileRecv\MapControlApplication1区域验证\MapControlApplication1\MapControlApplication1\obj\x86\Debug\MapControlApplication1.pdb

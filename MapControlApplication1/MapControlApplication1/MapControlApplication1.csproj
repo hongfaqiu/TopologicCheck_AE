@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{82766C9F-313F-4392-ACD2-AF4F031A87EE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MapControlApplication1</RootNamespace>
+    <AssemblyName>MapControlApplication1</AssemblyName>
+    <ApplicationIcon>Earth.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ESRI.ArcGIS.ADF.Local">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.ConversionTools, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL" />
+    <Reference Include="ESRI.ArcGIS.DataSourcesFile, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.DataSourcesGDB, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geodatabase, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geometry, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geoprocessing, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Geoprocessor, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL" />
+    <Reference Include="ESRI.ArcGIS.Output, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.OutputUI, Version=10.2.0.0, Culture=neutral, PublicKeyToken=8fc3cc631e44ad86, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Version">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.AxControls">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Carto">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Controls">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.Display">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ESRI.ArcGIS.SystemUI">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddFeatCla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddFeatCla.Designer.cs">
+      <DependentUpon>AddFeatCla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admit BookmarkNames.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admit BookmarkNames.Designer.cs">
+      <DependentUpon>Admit BookmarkNames.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BufferQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BufferQuery.Designer.cs">
+      <DependentUpon>BufferQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateDB.designer.cs">
+      <DependentUpon>CreateDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateDS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateDS.designer.cs">
+      <DependentUpon>CreateDS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateNewDocument.cs" />
+    <Compile Include="CreateTopology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateTopology.designer.cs">
+      <DependentUpon>CreateTopology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreatFeatureClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreatFeatureClass.Designer.cs">
+      <DependentUpon>CreatFeatureClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataBaseOperator.cs" />
+    <Compile Include="DataOperator.cs" />
+    <Compile Include="DataBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataBoard.Designer.cs">
+      <DependentUpon>DataBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Export.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Export.Designer.cs">
+      <DependentUpon>Export.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeatureRenderer.cs" />
+    <Compile Include="CreateFeature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateFeature.Designer.cs">
+      <DependentUpon>CreateFeature.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeildStatistic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeildStatistic.Designer.cs">
+      <DependentUpon>FeildStatistic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeoMapLoad.cs" />
+    <Compile Include="MapAnalysis.cs" />
+    <Compile Include="MapQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapQuery.Designer.cs">
+      <DependentUpon>MapQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadTopology.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReadTopology.Designer.cs">
+      <DependentUpon>ReadTopology.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Topology.cs" />
+    <EmbeddedResource Include="AddFeatCla.resx">
+      <DependentUpon>AddFeatCla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admit BookmarkNames.resx">
+      <DependentUpon>Admit BookmarkNames.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BufferQuery.resx">
+      <DependentUpon>BufferQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateDB.resx">
+      <DependentUpon>CreateDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateDS.resx">
+      <DependentUpon>CreateDS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateFeature.resx">
+      <DependentUpon>CreateFeature.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateTopology.resx">
+      <DependentUpon>CreateTopology.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreatFeatureClass.resx">
+      <DependentUpon>CreatFeatureClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataBoard.resx">
+      <DependentUpon>DataBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Export.resx">
+      <DependentUpon>Export.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeildStatistic.resx">
+      <DependentUpon>FeildStatistic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapQuery.resx">
+      <DependentUpon>MapQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReadTopology.resx">
+      <DependentUpon>ReadTopology.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App.ico" />
+    <Content Include="Earth.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
